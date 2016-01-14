@@ -26,6 +26,9 @@
 {"Goodnight s% ! Have sweet dreams <3"},
 {"I", "am", "'m", "going", "to", "bed", "sleep", "goodnight", ".", "!"}
 },{
+{"You're welcome ! ;3"},
+{"thank", "you"}
+},{
 {"Yes.","No.","Perhaps."},
 {"?","?"},true
 }}
